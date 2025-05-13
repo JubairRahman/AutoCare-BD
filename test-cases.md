@@ -1,8 +1,8 @@
 #  Test Cases: AutoCare Platform
 
-This document provides a collection of detailed test cases for validating key functionalities of the AutoCare web application. The purpose is to ensure that the system performs as expected under various user actions and edge scenarios.
+This document provides a collection of test cases for validating key functionalities of the AutoCare web application in both *WEB* and _APP_. The purpose is to ensure that the system performs as expected under various user actions and edge scenarios.
 
-Each test case includes the test case ID, scenario description, input data, expected results, and actual results. These cases help ensure quality and consistency across major features such as authentication, product search, checkout flow, and order tracking.
+Each test case includes the test case ID, test case, test data, expected result, and actual result, and status. These cases help ensure quality and consistency across major features such as authentication, product search, checkout flow, and order tracking.
 
 ---
 
@@ -17,7 +17,7 @@ For full detailed test case execution, input data variations, test steps, and ac
 ##  Test Environment
 
 - **Platform:** Web Application  
-- **URL:** [https://autocare.com.bd](https://autocare.com.bd)  
+- **URL:** [https://autocare.com.bd](https://autocare.com.bd)  **APP**: [https://autocare.com.bd](https://play.google.com/store/apps/details?id=com.auto_care.android)
 - **Browser:** Chrome v136.0.7103.93  
 - **Devices Tested:**
   - macOS Sonoma 14.1.1
@@ -35,8 +35,9 @@ For full detailed test case execution, input data variations, test steps, and ac
 | TC-004       | Add to Cart    | Add product to cart and proceed to checkout     | Logged-in user, product     | Product added, address prompt shown                         | Pass    |
 
 ---
+> These are sample initial-level test cases
 
-### 📌 Notes
+###  Notes
 
 - This file provides a preview of important test scenarios.
 - Please refer to the spreadsheet for step-by-step instructions, test data sets, edge cases, and regression coverage.
