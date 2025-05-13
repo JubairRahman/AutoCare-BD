@@ -11,7 +11,7 @@ This document includes detailed functional scenarios based on the AutoCare web a
 | Scenario ID | Feature                           | Scenario Description                                                                                                                                                    |
 |-------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | FS01        | Website Accessibility             | Verify that the website loads correctly when searched via Google and the homepage is accessible without login.                                                        |
-| FS02        | Sign Up                           | Verify that a new user can register using full name and valid mobile number, receive OTP, and complete sign-up.                                                        |
+| FS02        | Sign Up                           | Verify that a new user can register using full name and valid mobile number, receive OTP, and complete sign-up.                                 |
 | FS03        | Login (Valid Credentials)         | Verify that a registered user can log in using correct mobile number and password.                                                                                      |
 | FS04        | Login (Invalid Credentials)       | Verify that login fails with incorrect credentials and shows an appropriate warning message.                                                                           |
 | FS05        | Forgot Password Flow              | Verify that a user can reset password via the “Forgot Password” feature using OTP received on their registered number.                                                |
@@ -33,5 +33,11 @@ This document includes detailed functional scenarios based on the AutoCare web a
 
 ---
 
+##  About the QA
 
+# Jubair Rahman
+
+**Software Engineer (QA) | HealthTech | Passionate about testing, tools, and UI quality.**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubair-rahman/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JubairRahman) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801645763353)
 
