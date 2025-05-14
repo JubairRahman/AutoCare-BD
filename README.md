@@ -26,9 +26,23 @@ AutoCare-BD/
 ├── functional-scenarios.md # Realistic functional QA scenarios
 ├── summary-of-product.md # Overview of the platform and its use cases
 ├── test-cases.md # Structured QA test cases with shared spreadsheet link
+├── ui-observations.md # UI/UX improvement recommendations with examples
 └── README.md # This file
 ```
+---
 
+## Quick Access
+
+Click below to jump directly to each section:
+
+- [🪲 Bug Reports](./bug-reports.md)
+- [🌐 Cross Platform Tests](./cross-platform-tests.md)
+- [⚙️ Functional Scenarios](./functional-scenarios.md)
+- [📘 Summary of Product](./summary-of-product.md)
+- [🧪 Test Cases](./test-cases.md)
+- [🎨 UI Observations](./ui-observations.md)
+
+---
 ---
 
 ##  Key QA Artifacts
@@ -77,6 +91,11 @@ While testing, multiple UI and functional issues were found. The following impro
 
 ---
 
+## 🙌 Contributing
+
+Want to contribute or report a new issue? Feel free to fork the repo and submit a pull request, or raise an issue.
+---
+
 ## 👨‍💻 Author
 
 ## Jubair Rahman  
@@ -91,3 +110,5 @@ While testing, multiple UI and functional issues were found. The following impro
 ---
 
 > ⚠️ _This project is for demonstration and assessment purposes only and is not affiliated with AutoCare official development._
+> 🛠 Maintained with care by Jubair Rahman – Software QA Engineer
+
