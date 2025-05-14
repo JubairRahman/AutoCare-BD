@@ -30,6 +30,7 @@ This document includes detailed functional scenarios based on the AutoCare web a
 | FS18        | Order Tracking                    | Verify that users can view and track the status of their orders post-purchase.                                                                                        |
 | FS19        | Profile Management                | Verify that users can update profile information and see real-time reflection of changes.                                                                             |
 | FS20        | Service Booking                   | Verify that service bookings work correctly with selected date/time and that booking confirmation is provided.                                                        |
+| FS21        | Language Mode                   | Verify that switching the language to Bangla updates the UI text and content accordingly.                                                        |
 
 ---
 
