@@ -520,6 +520,28 @@ When filtering products by price range 0–658, a product with an original price
 
 ---
 
+### BUG-20
+
+**Issue:** Language Mode is not working.
+
+**Feature:** Language
+
+**Bug Type:** Functional
+
+**Steps to Reproduce:**
+
+1. Goto the homepage
+2. Switch the language English to Bangla 
+3. Observe the scenario ( Language is not working) 
+
+**Expected Result**
+* The language should change. 
+**Actual Result**
+* The language mode is not functioning.
+
+
+---
+
 ##  About the QA
 
 # Jubair Rahman
